@@ -1,0 +1,405 @@
+@media only screen and (max-width: 1024px) {
+    .top input[type=text] {
+        margin-left: 30px;
+    }
+    .navbar-nav li a,.navbar-nav li button {
+        margin-left: 2rem !important;
+        font-size: 15px;
+    }
+    .btn-warning {
+        padding: 15px!important;
+    }
+    .btn-warning span {
+        font-size: 15px;
+    }
+    .gradient-text {
+        bottom: 125px!important;
+        padding: 10px!important;
+        font-size: 1.7rem;    
+    }
+    .btn-glass {
+        padding: 15px!important;
+    }
+    .banner-bg {
+        height: 450px;
+        margin-top: 25px;
+    }
+    .banner-title {
+        left: 25%;
+    }
+    .btn-top {
+        margin-top: 3%!important;
+    }
+    .soc-logo a {
+        margin-left: 3px;
+        margin-right: 3px;
+        font-size: 14px;
+        font-weight: lighter;
+    }
+    .soc-logo img{
+        width: 18px;
+    }
+    .laz {
+        width: 55px!important;
+    }
+    .gradient-textt button,.btn-outline-light {
+        border-width: 2px!important;
+        padding: 10px 25px!important;
+    }
+   .multi-text span, .multi-text h1, .stay-upto-date h1, .info-text h1, .our-mission h2, .inmed-corp h2, .inmed-corp span,.reseller-text h1,.reseller-text h2  {
+        font-size: 2rem!important;
+    }
+    .our-mission p,.multi-text p, .stay-upto-date p, .banner-title p, .foot-sentence p,.about-content a, .about-content p,.visit-us-txt p,.inmed-corp p {
+        font-size: 1rem!important;
+    }
+    .section-about{
+        padding-top: 20px!important;
+        padding-bottom: 20px!important;
+        font-size: 1.3rem!important;
+    }
+    .btn-contact {
+        margin-top: 52px;
+        font-size: 13px!important;
+    }
+    .section-about h3,.foot-sentence h3 {
+        font-size: 1.3rem;
+    }
+    .foot-sentence p {
+        font-weight: lighter;
+    }
+    .fa-compass ,.fa-eye{
+        font-size: 2.5rem!important;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .bg-white {
+        padding-bottom: 30px!important;
+    }
+    .gradient-text {
+        bottom: 120px!important;
+        padding: 9px!important;
+        font-size: 1.5rem;
+    }
+    .banner-title h1 {
+        font-size: 20px!important;
+    }
+    .banner-bg {
+        height: 320px;
+        margin-top: 0px;
+    }
+    .gradient-textt button, .btn-outline-light {
+        padding: 8px 20px!important;
+        font-size: 15px!important;
+    }
+    .banner-title {
+        left: 27%;
+    }
+    #topheader .w-75{
+        width:100%!important;
+        margin-top: 30px;
+    }
+    .soc-logo {
+        margin-left: 2px;
+        margin-right: 2px;
+        font-size: 13px;
+        font-weight:lighter;
+    }
+    .soc-logo img {
+        width: 13px;
+    }
+    .second-layer {
+        display: none;
+    }
+    .soc-logo img {
+        width: 13px;
+        margin-left: 3px;
+        margin-right: 3px;
+    }
+    .who-we-are {
+        padding-top: 0px;
+    }
+    .fa-compass, .fa-eye {
+        font-size: 2rem!important;
+    }
+    .multi-text span, .multi-text h1, .stay-upto-date h1, .info-text h1, .our-mission h2 {
+        font-size: 2rem;
+    }
+    .our-mission p, .multi-text p, .stay-upto-date p, .banner-title p, .foot-sentence p, .about-content a, .about-content p, .visit-us-txt p, .inmed-corp p,.our-values p {
+        font-size: 14px!important;
+    }
+    .we-are-ready,.stay-upto-date {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    .btn-contact {
+        margin-top: 55px;
+        font-size: 12px!important;
+        letter-spacing: 1px;
+        padding: 10px!important;
+    }
+    .search-bottom {
+        padding-top: 0px;
+    }
+    .section-about h3,.foot-sentence h3 {
+        font-size: 1rem;
+    }
+    .foot-sentence img {
+        width: 150px !important;
+    }
+    .foot-sentence {
+        padding-top: 0px;
+    }
+    .top input[type=text] {
+        margin-left: 5px;
+    }
+    .btn-warning {
+        margin-right: 20px!important;
+    }
+    .btn-glass {
+        margin-right: 25px;
+    }
+    .navbar-toggler:hover,.navbar-toggler:focus,.navbar-toggler {
+        text-decoration: none;
+        border: transparent!important;
+    }
+    .box {
+        width: 36px;
+        height: 36px;
+        font-size: 1rem;
+    }
+}
+@media only screen and (max-width: 575px) {
+    #topheader .w-75 {
+        width: 25%!important;
+    }
+}
+@media only screen and (max-width: 480px) {
+   .offcanvas .navbar-nav li a,.offcanvas .navbar-nav li button {
+    margin-left: 0rem !important;
+    font-size: 15px;
+    padding: 5px 20px!important;
+    }
+    #topheader .w-75 {
+        width: 100px!important;
+        margin-top: 30px;
+    }
+    .navbar{
+        --bs-navbar-toggler-focus-width: 0rem!important;
+    }
+    .btn-warning {
+        position: relative!important;
+        bottom: 50px;
+        left: 70px;
+        padding: 6px!important;
+        font-size: 11px!important;
+    }
+    .top input[type=text], .btn-glass {
+        margin-right: -55px;
+        padding: 5px!important;
+        font-size: 12px!important;
+        margin-left: 21px!important;
+    }
+    .navbar-toggler {
+        position: relative;
+    }
+    .gradient-text {
+        font-size: 1rem;
+        bottom: 130px!important;
+    }
+    .gradient-textt button, .btn-outline-light {
+        padding: 5px 14px!important;
+        font-size: 11px!important;
+    }
+    .banner-bg {
+        height: 280px!important;
+        margin-top: 25px;
+    }
+    .banner-title {
+        left: 30%;
+        width: 100%;
+        top: 40%;
+    }
+    .soc-logo img {
+        width: 8px;
+    }
+    .transbox {
+        padding: 15px 3px;
+    }
+    .soc-logo a {
+        margin-left: 0px;
+        margin-right: 0px;
+        font-size: 10px;
+    }
+    .social-section {
+        padding-bottom: 15px;
+    }
+    .fa-compass, .fa-eye {
+        display: none!important;
+    }
+    .multi-text span, .multi-text h1, .stay-upto-date h1, .info-text h1, .our-mission h2, .inmed-corp h2, .inmed-corp span  {
+        font-size: 1.5rem!important;
+    }
+    .bg-white {
+        padding-bottom: 20px!important;
+    }
+    .who-we-are .mt-5 {
+        margin-top: 2rem!important;
+    }
+    .who-we-are .mt-3{
+        margin-top: 0px !important;
+    }
+    .we-are-ready {
+        margin-top: 0px;
+    }
+    .our-mission p, .multi-text p, .stay-upto-date p, .banner-title p, .foot-sentence p, .about-content a, .about-content p, .visit-us-txt p, .inmed-corp p,.our-values p {
+        font-size: 14px!important;
+    }
+    .multi-text input[type=text], .multi-text textarea {;
+        margin: 5px!important;
+        font-size: 10px!important;
+    }
+    .inmed-corp p,.our-values p {
+        margin-bottom: 23px!important;
+        margin-top: 5px!important;
+    }
+    .inmed-corporation{
+        padding-bottom: 0px!important;
+    }
+    .inmed-corporation img ,.our-values img{
+        width: 100% !important;
+    }
+    .btn-contact {
+        margin-top: 20px;
+        font-size: 11px!important;
+        letter-spacing: 1px;
+        padding: 4px!important;
+    }
+    .card-body {
+        padding: 0px!important;
+    }
+    .search-bottom input[type=email] {
+        font-size: 8px!important;
+        width: 65% !important;
+    }
+    .stay-upto-date .mt-2{
+        margin-top: -1rem!important;
+    }
+    .g-recaptcha {
+        transform: scale(0.50)!important;
+        margin-bottom: -1rem!important;
+    }
+    .search-bottom {
+        padding-top: 15px;
+    }
+    .stay-upto-date {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .bg-footer .mb-5,.mt-5 {
+        margin-bottom: 1rem !important;
+    }
+    /* .first-layer {
+        padding: 0px 25px 0px 25px!important;
+    } */
+    .section-about h3,.foot-sentence h3 {
+        font-size: 1rem!important;
+    }
+    .visit-us-txt span,.visit-us-txt h1 {
+        border-radius: 5px;
+        padding: 0px;
+        font-size: 20px;
+        margin-top: 1rem;
+    }
+    .section-come-visit-us {
+        padding-bottom: 135px!important;
+    }
+    .bg-footer .col-md-4 a .mt-5{
+            margin-top: 0rem !important;
+    }
+    .section-come-visit-us .card .p-5 {
+        padding: 2rem 1rem !important;
+    }
+    .section-come-visit-us .btn-glass {
+        margin-left: 0rem!important;
+    }
+    div #second {
+        order: 2;
+    }
+    div #first {
+        order: 1;
+    }
+    .warranty-form input[type=text], .warranty-form textarea{
+        margin-bottom: 0.5rem !important;
+    }
+    .border-orange {
+        border: 1px solid #dee2e6!important;
+    }
+}
+@media only screen and (max-width: 375px) {
+    #topheader .w-75 {
+        width: 75px!important;
+    }
+    .banner-bg {
+        height: 300px;
+    }
+    .top input[type=text], .btn-glass {
+        margin-right: -70px;
+        padding: 5px!important;
+    }
+    .btn-glass, .btn-dark {
+        font-size: 11px!important;
+    }
+    .gradient-text {
+        font-size: 13px;
+        bottom: 120px!important;
+    }
+    .banner-title {
+        left: 30%;
+    }
+    .gradient-textt button, .btn-outline-light {
+        padding: 4px 10px!important;
+        font-size: 9px!important;
+    }
+    .soc-logo img {
+        width: 6px;
+        margin-left: 1px!important;
+        margin-right: 1px!important;
+    }
+    .soc-logo a {
+        margin-left: 0px;
+        margin-right: 0px;
+        font-size: 9px;
+    }
+    .social-section {
+        margin-top: 5px!important;
+    }
+    .multi-text span, .multi-text h1, .stay-upto-date h1, .info-text h1, .our-mission h2, .inmed-corp h2, .inmed-corp span  {
+        font-size: 1.2rem!important;
+    }
+    .our-mission p, .multi-text p, .stay-upto-date p, .banner-title p, .foot-sentence p, .about-content a, .about-content p, .visit-us-txt p, .inmed-corp p {
+        font-size: 14px!important;
+        margin-top: 0px!important;
+    }
+    .stay-upto-date {
+        margin-top: 10px!important;
+    }        
+    .we-are-ready {
+        padding-top: 30px;
+    }
+    .search-bottom .w-50 {
+        width: 75% !important;
+        font-size: 12px;
+    }
+    .stay-upto-date {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .g-recaptcha {
+        transform: scale(0.5)!important;
+    }
+    .first-layer {
+        padding: 0px!important;
+    }
+    
+}

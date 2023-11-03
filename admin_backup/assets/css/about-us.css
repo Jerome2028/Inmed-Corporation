@@ -1,0 +1,61 @@
+.section-about{
+    margin-top: 100px;
+    background-color: #f6f6f6;
+
+}
+.about-content h1{
+    color: #f5832e;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: left;
+    text-decoration: underline;
+}
+/* ----------------------------------------INMED CORPORATION-------------------------------------------------------*/
+.inmed-corp h1{
+    margin-bottom: 1rem!important;
+    font-weight: 500;
+}
+.inmed-corp p{
+    font-size: 1.2rem;
+}
+/* ----------------------------------------OUR VALUES------------------------------------------------------- */
+.our-values h1{
+    margin-bottom: 1rem!important;
+}
+.our-values p{
+    font-size: 1.2rem;
+}
+/* ----------------------------------------COME VISIT US------------------------------------------------------- */
+.section-come-visit-us{
+    background-color: #f5832e;
+    background-image: linear-gradient(62deg, #f5832e 10%, #ef4f38 40%);
+}
+.visit-us-txt span{
+    border-radius: 5px;
+    padding: 5px;
+    background-color: white;
+    color: #ff6d1f!important;
+}
+.btn-dark span{
+    font-weight: bolder;
+    color:white!important;
+}
+.btn-dark {
+    padding: 5px 14px!important;
+}
+.visit-us-spacer{
+    margin-top:50px;
+}
+.visit-us-txt h1 {
+    margin-bottom: 1rem!important;
+    font-weight: 700;
+    color: white;
+}
+.visit-us-txt p {
+    font-size: 1rem;
+    color: white;
+}
+#location{
+   margin: auto;
+   display: block;
+}

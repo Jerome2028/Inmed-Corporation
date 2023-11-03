@@ -1,0 +1,183 @@
+.section-about{
+    margin-top: 100px;
+    background-color: #f6f6f6;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.about-content a , .about-content p{
+    color: #616161;
+    margin-top: 0px;
+    text-align: left;
+    /* text-decoration: underline; */
+}
+.inmed-color{
+    color: #f5832e;;
+}
+.about-content h3{
+    color: #f5832e;
+    font-weight: 500;
+}
+.about-content a:hover{
+    color: #f5832e;
+}
+/* ----------------------------------------INMED CORPORATION-------------------------------------------------------*/
+.inmed-corp h1{
+    margin-bottom: 1rem!important;
+    font-weight: 500;
+}
+.inmed-corp p {
+    font-size: 1rem;
+    line-height: 30px;
+}
+/* ----------------------------------------OUR VALUES------------------------------------------------------- */
+.our-values h1{
+    margin-bottom: 1rem!important;
+}
+.our-values p{
+    font-size: 1rem;
+    line-height: 30px;
+}
+/* ----------------------------------------COME VISIT US------------------------------------------------------- */
+.section-come-visit-us{
+    position: relative;
+    overflow: hidden;
+    background: url(../img/img11.jpg) no-repeat center;
+    padding-top: 0px!important;
+    padding-bottom: 0px;
+}
+
+.visit-us-txt span{
+    border-radius: 5px;
+    padding: 5px;
+    background-color: white;
+    /* color: #f5832e!important; */
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 600;
+}
+.overlayy {
+    height: 1070px;
+    background: rgba(0,0,0,0.3);
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.section-come-visit-us .overlayy{
+    position: relative;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    width: 100%;
+    z-index: 1;
+}
+.section-come-visit-us .btn-glass{
+    padding: 10px 20px!important;
+}
+.btn-dark span{
+    font-weight: bolder;
+    color:white!important;
+}
+.btn-dark {
+    padding: 8px 20px!important;
+}
+.visit-us-txt h1 {
+    margin-bottom: 0rem!important;
+    color: #000000;
+    font-weight: 800;
+}
+.visit-us-txt .col-md-4 span {
+    color:#ff7c00;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+}
+.visit-us-txt h3 {
+color: white;
+margin-bottom: 1rem!important;
+}
+.visit-us-txt p {
+    font-size: 14px;
+}
+#location{
+   margin: auto;
+   display: block;
+}
+.border-orange {
+    border: 0px solid #dee2e6!important;
+    border-radius: 5px!important;
+}
+/* @media only screen and (max-width: 1024px) {
+    .inmed-corporation .w-75 {
+        width: 100% !important;
+        margin-top: 4rem;
+    }
+ .our-values .w-75{
+ margin-top: 4rem;
+}
+.visit-us-txt h1 {
+    font-size: 2rem!important;
+    margin-bottom: 10px!important;
+}
+.gx-5 {
+    --bs-gutter-x: 0rem!important;
+}
+}
+@media only screen and (max-width: 768px) {
+    .inmed-corp p {
+        font-size: 12px;
+        line-height: 25px;
+    }
+    .our-values p {
+        font-size: 12px;
+        line-height: 25px;
+    }
+    .visit-us-txt h1 {
+        font-size: 1.5rem!important;
+    }
+    .btn-dark {
+        margin-left: 0%!important;
+    }
+    .visit-us-txt p {
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .inmed-corp p {
+        font-size: 12px;
+        line-height: 25px;
+    }
+    .our-values p {
+        font-size: 12px;
+        line-height: 25px;
+        margin-bottom: 2rem!important;
+    }
+    .btn-dark {
+        margin-left: 0%!important;
+    }
+    .visit-us-txt p {
+        font-size: 12px;
+    }
+    div #second {
+        order: 2;
+    }
+    div #first {
+        order: 1;
+    }
+    .our-values .w-75 {
+        margin-top: 4rem;
+        margin: auto;
+        display: block;
+    }
+    .border-orange{
+        border:1px solid #dee2e6!important;
+    }
+    .card-body textarea{
+        margin-top: 1rem!important;
+    }
+    .btn-dark {
+        padding: 5px 15px!important;
+    }
+     /* .fa-store{
+        width:100%;
+     } */
+    
+} */
